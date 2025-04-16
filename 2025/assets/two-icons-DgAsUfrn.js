@@ -1,0 +1,1 @@
+import{f as o,o as l,g as e,j as t}from"./modules/vue-C3NdDM6C.js";import{u as a}from"./slidev/context-C5MsG-wI.js";const r={class:"slidev-layout"},n={class:"flex h-full justify-around items-center px-12"},_={__name:"two-icons",setup(i){return a(),(s,c)=>(l(),o("div",r,[e("div",n,[e("div",null,[t(s.$slots,"default")]),e("div",null,[t(s.$slots,"right")])])]))}};export{_};

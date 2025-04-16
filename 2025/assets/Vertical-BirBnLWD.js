@@ -1,0 +1,1 @@
+import{f as t,o,j as s}from"./modules/vue-C3NdDM6C.js";import{u as r}from"./slidev/context-C5MsG-wI.js";const a={class:"flex flex-col items-center"},i={__name:"Vertical",setup(c){return r(),(e,l)=>(o(),t("div",a,[s(e.$slots,"default")]))}};export{i as _};
