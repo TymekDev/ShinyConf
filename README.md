@@ -1,0 +1,3 @@
+- Enhancing Shiny Projects with pre-commit Hooks, {renv} Profiles, and Release Management **(2025)**
+  - Slides: https://tymekdev.github.io/ShinyConf/2025/
+  - Recording: https://app.events.ringcentral.com/events/shinyconf-2025/replay/cut_a70faffc-b868-47f1-8c14-a008b078e663
